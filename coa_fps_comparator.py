@@ -1,7 +1,6 @@
 
 import streamlit as st
 from difflib import SequenceMatcher
-from PyPDF2 import PdfReader
 import re
 import numpy as np
 
